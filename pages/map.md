@@ -18,6 +18,7 @@ header:
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1HogSzzYyS0fDeRtxboVDvxJ8cHUTM2fI&ehbc=2E312F" width="100%" height="480" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
+<!--
 <h2>Leaflet.js</h2>
 
 <br>
@@ -31,3 +32,4 @@ header:
     attribution: '© OpenStreetMap'
     }).addTo(map);
 </script>
+-->
