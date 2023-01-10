@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Themes"
 subheadline: ""
 teaser: "Explore connections across Re/Member Black Philly projects"
-permalink: "/our-work/themes/"
+permalink: "/themes/"
 header:
    image_fullwidth: header_banner.jpg
 ---

@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Contributors"
 subheadline: ""
 teaser: "Meet the people who make Remember Black Philly."
-permalink: "/about/team/"
+permalink: "/contributors/"
 header:
    image_fullwidth: header_banner.jpg
 ---
