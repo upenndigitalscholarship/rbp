@@ -18,13 +18,13 @@
   url: "/map/"
   side: left
 
-- title: EVENTS
-  url: "/events/"
-  side: left
+# - title: EVENTS
+#  url: "/events/"
+#  side: left
 
-- title: THEMES
-  url: "/themes/"
-  side: left  
+#- title: THEMES
+#  url: "/themes/"
+#  side: left  
 
 - title: CONTACT
   url: "/contact/"
