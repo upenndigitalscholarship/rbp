@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Events"
+# title: "Events"
 subheadline: ""
 teaser: "Join us for upcoming events related to Re/Member Black Philadelphia"
 permalink: "/events/"

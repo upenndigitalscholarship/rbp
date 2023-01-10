@@ -7,7 +7,7 @@
   side: left
 
 - title: CONTRIBUTORS
-  url: "/about/team/"
+  url: "/team/"
   side: left
 
 - title: PROJECTS
@@ -19,13 +19,13 @@
   side: left
 
 - title: EVENTS
-  url: "/our-work/events/"
+  url: "/events/"
   side: left
 
 - title: THEMES
-  url: "/our-work/themes/"
+  url: "/themes/"
   side: left  
 
 - title: CONTACT
-  url: "/get-involved/contact/"
+  url: "/contact/"
   side: left

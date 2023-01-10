@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Themes"
+# title: "Themes"
 subheadline: ""
 teaser: "Explore connections across Re/Member Black Philly projects"
 permalink: "/themes/"
